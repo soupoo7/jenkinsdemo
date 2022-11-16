@@ -10,7 +10,7 @@ pipeline {
         stage ('Execute'){
             steps{
                 // exit 1
-                echo "Hello Soup"
+                echo "BMW"
             }
             
         }
