@@ -5,4 +5,4 @@ kjk
 dv
 ki
   fvrv
- c 
+ c c c 
